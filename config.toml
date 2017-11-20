@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "KNAW Humanities Cluster", url = "https://huc.knaw.nl/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "melvinwevers@icloud.com"
   address = "Room 3.02, Oudezijds Achterburgwal 185, 1012 DK Amsterdam, NL"
   office_hours = "Email for appointment"
