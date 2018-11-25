@@ -38,8 +38,16 @@ filter_default = 0
   tag = ".history"
 
 [[filter]]
-  name = "Computer Vision"
+  name = "Seeing History"
   tag = ".computer-vision"
+
+[[filter]]
+  name = "Cultural Analytics"
+  tag = ".cultural-analytics"
+
+[[filter]]
+  name = "We are what we eat"
+  tag = ".food"
 
 +++
 

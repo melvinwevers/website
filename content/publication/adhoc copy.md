@@ -20,7 +20,7 @@ url_video = ""
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/archievenblad.jpg"
-caption = "Pruning process of word networks"
+caption = "Article header"
 
 +++
 

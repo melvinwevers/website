@@ -1,0 +1,27 @@
++++
+abstract = "Historical newspapers provide a lens on customs and habits of the past. For example, recipes published in newspapers highlight what and how we ate and thought about food. The challenge here is that newspaper data is often unstructured and highly varied, digitised historical newspapers add an additional challenge, namely that of fluctuations in OCR quality. Therefore, it is difficult to locate and extract recipes from them. We present our approach based on distant supervision and automatically extracted lexicons to identify recipes in digitised historical newspapers, to generate recipe tags, and to extract ingredient information. We provide OCR quality indicators and their impact on the extraction process. We enrich the recipes with links to information on the ingredients. Our research shows how combining natural language processing, machine learning, and semantic web can be used to construct a rich dataset from heterogeneous newspapers for the historical analysis of food culture."
+authors = ["Melvin Wevers", "Marieke van Erp", "Hugo Huurdeman", "Richard Zijdeman"]
+date = "2018-05-09"
+image_preview = ""
+math = false
+publication_types = ["1"]
+publication = "DH Benelux 2018 "
+publication_short = "DHB '18"
+selected = true
+title = "Jamie LOD-iver: Extracting and Enriching Historical Recipes (Poster)"
+url_code = "https://github.com/DHLab-nl/historical-recipe-web"
+url_dataset = "https://github.com/DHLab-nl/historical-recipe-web"
+url_pdf = "/pdf/DHB-poster.pdf"
+url_project = "project/food/"
+url_slides = ""
+url_video = ""
+
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/ISWC.png"
+caption = "Annotated Historical Recipe"
+
++++
+
+

@@ -44,4 +44,4 @@ weight = 5
 
 # Biography
 
-I am researcher in the Digital Humanities Lab at the KNAW Humanities Cluster. My research interests include the study of cultural-historical phenomena using computational means with a specific interest in the formation and evolution of ideas and concepts in public discourse. Oh, and I really like to study advertisements and consumer products. 
+I am a postdoctoral researcher in the Digital Humanities Lab at the KNAW Humanities Cluster. My research interests include the study of cultural-historical phenomena using computational means with a specific interest in the formation and evolution of ideas and concepts in public discourse. Oh, and I really like to study advertisements and consumer products. 

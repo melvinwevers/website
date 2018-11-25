@@ -20,4 +20,4 @@ I taught the following courses at Utrecht University:
 - RMA Course: Humanities: Past, Present, and Future
 - BA Course: Introduction to Historiography 
 
-I also created and given multiple workshops on Python, Text Mining, and Data Science
+I also created and given multiple workshops on Python, [Text Mining](https://github.com/melvinwevers/kb-workshop), and [Data Visualization](https://github.com/melvinwevers/python-visualization-workshop).
